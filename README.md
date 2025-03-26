@@ -43,7 +43,7 @@ Generate (sample) some text from a trained model with:
 
 ---
 
-# Task 1 Changes
+# Changes done by us and instructions on how to proceed
 
 ## Preprocessing of the data
 
