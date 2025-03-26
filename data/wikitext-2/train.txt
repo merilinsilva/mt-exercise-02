@@ -1,0 +1,1 @@
+/Users/merilinsilva/Documents/SemestersUZH/4thSem/MT/exercises/msousa_spareek_mt_exercie_02/mt-exercise-02/tools/pytorch-examples/word_language_model/data/wikitext-2/train.txt
